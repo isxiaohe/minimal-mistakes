@@ -318,7 +318,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -335,6 +335,3 @@ defaults:
       layout: single
       author_profile: true
 
-collections:
-  posts:
-    output: true
