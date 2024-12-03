@@ -150,9 +150,9 @@ footer:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   # url:
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://gitlab.com/isxiaohe"
+    # - label: "Github"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://gitlab.com/isxiaohe"
     # - label: "Bitbucket"
     #   icon: "fab fa-fw fa-bitbucket"
     #   # url:
@@ -161,7 +161,7 @@ footer:
     #   # url:
     - label: "Bilibili"
       icon: "fab fa-fw fa-bilibili"
-      url: "https://space.bilibili.com/249422664?spm_id_from=333.1007.0.0"
+      url: "https://space.bilibili.com/249422664"
 
 
 # Reading Files
